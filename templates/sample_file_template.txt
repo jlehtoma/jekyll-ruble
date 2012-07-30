@@ -1,0 +1,4 @@
+Sample Variables:
+* \sample_file_template: The file name, without the file-extension
+* \/home/jlehtoma/Aptana Studio 3 Workspace/Rubles/Jekyll/templates/sample_file_template.txt: The absolute path to the current file
+* \/home/jlehtoma/Aptana Studio 3 Workspace/Rubles/Jekyll/templates: The directory path for the current file
